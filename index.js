@@ -61,8 +61,6 @@ $("#loginButton").click(function(){
         alert("please enter password")
     }
     
-
-
 })
 
  
