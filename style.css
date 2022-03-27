@@ -3,3 +3,10 @@
     color: green;
     font-style: italic;
 }
+
+.div-style{
+    height: 70px;
+    background-color: tomato;
+    margin-top: 5px;
+    width: 800px;
+}
